@@ -1,0 +1,13 @@
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\bin\Debug\UceniciForma.exe.config
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\bin\Debug\UceniciForma.exe
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\bin\Debug\UceniciForma.pdb
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.csproj.AssemblyReference.cache
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.csproj.SuggestedBindingRedirects.cache
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.Form1.resources
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.Form2.resources
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.Properties.Resources.resources
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.csproj.GenerateResource.cache
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.csproj.CoreCompileInputs.cache
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.exe
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.pdb
+C:\Users\mreze\source\repos\UceniciForma\UceniciForma\obj\Debug\UceniciForma.Form3.resources
